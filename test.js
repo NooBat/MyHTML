@@ -1,4 +1,4 @@
-/** Test variables' scope */
+/** Testing variables' scope */
 function f2() {
   myVar = 3;
   console.log('inside function: ' + myVar);
